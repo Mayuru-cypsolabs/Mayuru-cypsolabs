@@ -3,7 +3,7 @@
  <div  align="center" ><picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px ></picture> </div>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mayuru0&label=Profile%20views&color=0e75b6&style=flat" alt="mayuru0" /> </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
