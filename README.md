@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Mayuru Madhuranga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I am a IT Lover</h3>
- <div  align="center" ><picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px ></picture> </div>
+
 
 
 
