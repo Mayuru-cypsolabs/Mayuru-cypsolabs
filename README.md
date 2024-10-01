@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on Software Engineer at Cypso Labs (PVT) LTD.*
 
-- 🌱 I’m currently learning **Java,C#,Python,PHP,HTML,CSS,Mysql**
-
 - 🤝 I’m Studied at **Advanced Technological Institute Naiwala**
  
 - 🏘 I,m Lives in **Gampaha, Sri Lanka**
